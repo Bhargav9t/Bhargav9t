@@ -1,5 +1,6 @@
-## Hi there 👋
+## My GitHub Contributions
 
+![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
 <!--
 **Bhargav9t/Bhargav9t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
